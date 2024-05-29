@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosRacionales.ConsoleApp1", "NumerosRacionales.ConsoleApp1\NumerosRacionales.ConsoleApp1.csproj", "{089AAF05-E466-4D36-9A94-76B1B47FA0C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosRacionales.Model", "NumerosRacionales.Model\NumerosRacionales.Model.csproj", "{20CC6B10-8652-4F15-AD1B-E1FEF64E951E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089AAF05-E466-4D36-9A94-76B1B47FA0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089AAF05-E466-4D36-9A94-76B1B47FA0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089AAF05-E466-4D36-9A94-76B1B47FA0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089AAF05-E466-4D36-9A94-76B1B47FA0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CC6B10-8652-4F15-AD1B-E1FEF64E951E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CC6B10-8652-4F15-AD1B-E1FEF64E951E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CC6B10-8652-4F15-AD1B-E1FEF64E951E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CC6B10-8652-4F15-AD1B-E1FEF64E951E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11258040-F7B6-411E-99DE-96B78DD500AF}
+	EndGlobalSection
+EndGlobal

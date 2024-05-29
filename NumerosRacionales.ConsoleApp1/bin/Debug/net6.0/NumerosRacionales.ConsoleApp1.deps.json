@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NumerosRacionales.ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "NumerosRacionales.Model": "1.0.0"
+        },
+        "runtime": {
+          "NumerosRacionales.ConsoleApp1.dll": {}
+        }
+      },
+      "NumerosRacionales.Model/1.0.0": {
+        "runtime": {
+          "NumerosRacionales.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumerosRacionales.ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NumerosRacionales.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
